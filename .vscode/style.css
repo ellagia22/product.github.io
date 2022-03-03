@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: #d3dcdf;
+    background-size: cover;
+    padding: 160px 50px 145px 0;
+}
+
+#SELAMAT DATANG DI WERSION {
+    background-color: $gray-600;
+}
